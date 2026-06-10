@@ -1,9 +1,9 @@
 Topics Covered 
-Integer 
-Float
-String
-Boolean
-List
-Tuple
-Set 
-Dictionary
+(Integer ,
+Float,
+String,
+Boolean,,
+List,
+Tuple,
+Set, 
+Dictionary)
